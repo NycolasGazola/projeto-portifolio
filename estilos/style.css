@@ -205,6 +205,14 @@ article h2{
   font-size: 1.1em;
 }
 
+footer{
+  text-align: center;
+  padding: 15px;
+  font-size: 0.9em;
+  color: var(--texto);
+  margin-top: 2px;
+}
+
 
 @media screen and (min-width: 768px) {
   #skill-container {
